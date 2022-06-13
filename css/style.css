@@ -841,9 +841,10 @@ max-width: 50%;
           border-radius: 20px;
         }
 
-        .section-skills_code-example {
+       .section-skills_code-example {
           margin-left: 0px;
           margin-right: 11px;
+          margin-left: 11px;
         }
 
           .section-education-list{
@@ -851,8 +852,10 @@ max-width: 50%;
             margin-bottom: 100px;
            flex-wrap: wrap;
            margin-left: 12px;
+           margin-right: 12px;
 
           }
+
 
           .section-education-list-item{
             display: flex;
